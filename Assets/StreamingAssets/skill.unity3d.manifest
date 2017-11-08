@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 2632407969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb3ded74285a5671ca5c16c63cf21107
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8106b4af0cb85da6fc2b0d6a6232eb5c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 12
+  Script: {instanceID: 0}
+- Class: 15
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 26
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dbe89c615eb8ac047b73789b66836875, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92d0dba4615c71d45bdbfd7c49b539ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff9179c503677dd44b3cb46aa0b81b35, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47b734d6cf544e946a6217f77fe9aa3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c30c5ba201d3254a8a5d9027c487023, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c8ddc8d37584dc4faa91a9482331294, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c706122eec4ab0a40a9c0df1569faa0f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd1dbe2f7f09b6343afae2fc7c6db5c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/StriveGame/Res/Skill/skill5.prefab
+- Assets/StriveGame/Res/Skill/skill6.prefab
+- Assets/StriveGame/Res/Skill/skill1.prefab
+- Assets/StriveGame/Res/Skill/skill2.prefab
+- Assets/StriveGame/Res/Skill/skill3.prefab
+- Assets/StriveGame/Res/Skill/skill4.prefab
+Dependencies: []

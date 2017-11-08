@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: createavatar.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: login.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: selectavatar.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: gameworld.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: playerhead.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: targethead.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: model.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: skill.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: terrain.unity3d
+      Dependencies: {}

@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3748072402
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec7d116334d3083ac507e5e2cd84d605
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 385c180307273f031a143b438dc721fd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 193
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+Assets:
+- Assets/StriveGame/Res/Terrain/Terrain.prefab
+Dependencies: []
