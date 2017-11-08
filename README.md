@@ -1,6 +1,6 @@
-# StriveGame(Unity5 + ULUA + kbengine)
+# StriveGame(Unity5 + ToLua + kbengine)
 
-*  Unity 官方github:  https://github.com/Unity-Technologies?page=6
+*  Unity 官方github:  https://github.com/Unity-Technologies
 
 * 使用Unity+KBEngine开发的mmo游戏demo的第二版，主要工作是将KBE的客户端插件以及大部分游戏逻辑Lua化，实现客户端热更新
 
